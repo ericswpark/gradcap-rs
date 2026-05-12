@@ -1,0 +1,13 @@
+[general]
+
+[board]
+name = "Digispark"
+
+[board.reset]
+automatic = true
+
+[board.avrdude]
+programmer = "micronucleus"
+partno = "attiny85"
+baudrate = -1
+do-chip-erase = false
