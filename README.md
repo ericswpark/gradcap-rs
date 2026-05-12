@@ -2,6 +2,8 @@
 
 My graduation cap running Rust to blink some lights
 
+See the blog post here: [https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
+
 ## Install
 
 Install dependencies of `avr-hal`:
